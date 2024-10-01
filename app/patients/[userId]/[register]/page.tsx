@@ -1,11 +1,11 @@
 import React from 'react'
 
-const page = () => {
+const Register = () => {
   return (
-    <div>
-      
+    <div className='flex h-screnn max-h-screen'>
+      <section className='remove-scrollbar container'></section>
     </div>
   )
 }
 
-export default page
+export default Register
